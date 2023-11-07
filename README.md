@@ -1,6 +1,5 @@
 # FirstRepo
-changes from dev 
-branch(create conflicts)
+changes from dev branch (create conflicts) (from task_3)
 
 # task java added
 
